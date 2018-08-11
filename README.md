@@ -5,7 +5,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/mdouchement/nregexp)](https://goreportcard.com/report/github.com/mdouchement/nregexp)
 [![License](https://img.shields.io/github/license/mdouchement/nregexp.svg)](http://opensource.org/licenses/MIT)
 
-NRegexp is a wrapper around `regexp.Regexp` that allow you to use named captures.
+NRegexp is a wrapper around `regexp.Regexp` that allow you to use named captures. It exposes `regexp.Regexp` methods.
 
 ## Usage
 
